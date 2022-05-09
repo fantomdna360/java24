@@ -1,4 +1,4 @@
-package day1;
+package part1;
 
 public class Equations {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package day1;
+package part1;
 
 public class PlanetWeight {
     public static void main(String[] args) {
