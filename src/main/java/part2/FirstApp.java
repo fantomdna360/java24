@@ -8,6 +8,7 @@ public class FirstApp {
         boolean stop = false;
         int x = 0;
         int index = 0;
+        byte b = 0b010;
         while (!stop) {
             index++;
             try {
@@ -26,6 +27,8 @@ public class FirstApp {
                 break;
             }
         }
+        System.out.println(b);
         System.out.println("Программа завершена");
+
     }
 }
